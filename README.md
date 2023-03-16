@@ -1,3 +1,4 @@
+This is a  Holberton ALX AFRICA portfolio project so I created a maze game to play with my 2 chidren to showcase what I have been learning in ALX and bond with them, this by all ages also families to connect through playing this game.
 ===============3D Maze game============
 ![blogpost](https://user-images.githubusercontent.com/67538957/211563340-4a81e371-cd86-4e05-8994-e2ccd1f6226d.png)
 
